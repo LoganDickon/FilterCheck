@@ -1,1 +1,1 @@
-All Solidworks (.SLDPRT) Files
+# This folder contains Solidworks Parts files (.SLDPRT)
