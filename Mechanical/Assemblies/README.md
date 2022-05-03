@@ -1,1 +1,1 @@
-# This folder contains Solidworks Assembly files (.SLDASM)
+# This folder contains "Solidworks Assembly" files (.SLDASM)
