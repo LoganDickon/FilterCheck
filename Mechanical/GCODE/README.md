@@ -1,1 +1,1 @@
-This folder contains Faceplate GCODE files (.gcode)
+This folder contains "Faceplate Cut Template" files (.gcode)
