@@ -1,1 +1,1 @@
-# This folder contains Solidworks Drawing files (.SLDDRW)
+# This folder contains "Solidworks Drawing" files (.SLDDRW)
