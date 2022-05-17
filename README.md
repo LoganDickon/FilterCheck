@@ -1,2 +1,2 @@
 # FilterCheck
-This repository contains all required documents on the FilterCheck
+This repository contains all required documents on the "FilterCheck"
