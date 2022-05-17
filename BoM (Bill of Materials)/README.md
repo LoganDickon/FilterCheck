@@ -1,1 +1,1 @@
-# This folder contains the FilterCheck Bill of Materials (.XLSX)
+# This folder contains the "FilterCheck Bill of Materials" (.XLSX)
