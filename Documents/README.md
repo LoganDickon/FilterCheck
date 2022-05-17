@@ -1,1 +1,1 @@
-This Folder Contains All "FilterCheck Documents" (.XLSX, .DOC)
+# This folder contains "FilterCheck Documents" (.XLSX, .DOC)
