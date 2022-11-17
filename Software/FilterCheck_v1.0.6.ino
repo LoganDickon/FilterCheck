@@ -15,7 +15,7 @@
 //    FlowMeter low-pressure sensor. The program then goes into monitor mode until a filter 
 //    is detected via the low-pressure sensor reading > -.8 cmH2O.
 
-// Device Constants:
+// Global Constants:
   #define PWM           2           // PWM Signal on pin 2 on the Teensy 4.1
   #define METER_RELAY   3           // Relay i/o on pin 3 on the Teensy 4.1
   #define FAN_RELAY     4           // Relay i/o on pin 4 on the Teensy 4.1
