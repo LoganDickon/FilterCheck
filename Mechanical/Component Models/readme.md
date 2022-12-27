@@ -1,1 +1,1 @@
-# This folder contains the files necessary to 3D Print all FilterCheck components
+# This folder contains all "SolidWorks 3D CAD" files for the FilterCheck
