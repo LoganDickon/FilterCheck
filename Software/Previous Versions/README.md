@@ -1,1 +1,1 @@
-# Deprecated Arduino Code for the FilterCheck!
+# Deprecated Arduino IDE code for the FilterCheck!
